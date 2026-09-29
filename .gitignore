@@ -6,3 +6,4 @@ build
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+.agents/skills/image-to-svg/scripts/nn_assign
