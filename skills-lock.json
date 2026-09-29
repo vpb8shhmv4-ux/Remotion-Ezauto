@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "flowing": {
+      "source": "oaustegard/claude-skills",
+      "sourceType": "github",
+      "skillPath": "flowing/SKILL.md",
+      "computedHash": "6bbcc1d77933261ceb56ac46138c0320a94e086ae9cb3a060f4fdacf712f65c0"
+    },
     "image-to-svg": {
       "source": "oaustegard/claude-skills",
       "sourceType": "github",
